@@ -1,8 +1,9 @@
-### Hi Devs 👋
-<h1 align="center">I am Muhammad Darab</h1>
-<br>
-🔭 JS Developer 
-<br> 🔨 I’m currently working on <br>-⚡Javascript, <br>-⚡Typescript, <br>-⚡React, <br>-⚡Next, <br>-⚡Jest, <br>-⚡Angular, <br>-⚡Three.js, <br>-⚡Mongo, <br>-⚡Postgres
+<h1 align="center"> السلام عليكم </h1>
+<p align="center" font=><i>(Peace be upon you) 👋 </i></p>
+<h1 align="center">Muhammad Darab here!</h1>
+<p align="center">Developer by day, Human by night! 👋</p> 
+<p align="center"> <b> 🟨 Javascript! (جاوا سکرپٹ) </p> <p align="center"> 🟦 Typescript! (ٹائپ اسکرپٹ) </p> <p align="center"> ⚛️ React! (رد عمل) </p><p align="center"> ⬛ Next (اگلے) </p> <p align="center"> 🟥 Angular Learning (کونیی) </b> </p>
+<br> <h1 align="center">🔨 I’m currently working on</h1> <p align="center"><i>(میں فی الحال کام کر رہا ہوں۔)</i></p> 
 
 ## Muhammad Darab's Github Stats
 <span> ![Darab's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadDarab&theme=tokyonight&show_icons=true&count_private=true) </span>
