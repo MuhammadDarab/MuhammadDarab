@@ -2,7 +2,7 @@
 <h1 align="center">I am Muhammad Darab</h1>
 <br>
 🔭 JS Developer 
-<br> ⚡ I’m currently working on Javascript, Typescript, React, Next, Jest, Angular, Three.js, Mongo, Postgres
+<br> ⚡ I’m currently working on <br>⚡Javascript, <br>⚡Typescript, <br>⚡React, <br>⚡Next, <br>⚡Jest, <br>⚡Angular, <br>⚡Three.js, <br>⚡Mongo, <br>⚡Postgres
 
 ## Muhammad Darab's Github Stats
 <span> ![Darab's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadDarab&theme=tokyonight&show_icons=true&count_private=true) </span>
